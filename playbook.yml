@@ -1,4 +1,4 @@
 - hosts:
     - managers
   roles:
-    - role: apt
+    - role: oefenweb.apt
