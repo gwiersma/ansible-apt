@@ -2,3 +2,4 @@
     - managers
   roles:
     - role: apt
+    - role: GROG.reboot
